@@ -1,2 +1,0 @@
-# blitz-test
-blitz-test
